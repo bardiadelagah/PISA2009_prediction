@@ -14,7 +14,7 @@ max_iter : 1000
 
 After finding the best hyperparameters, we fit the model.
 
-After finding the best hyperparameters, we fit the model. We use a dataset called PISA2009, which is not a scikit-ready data set and must be read from an external file. The list below shows the 23 columns as features and the 24th column as the label of the model output.
+After finding the best hyperparameters, we fit the model. We use a dataset called PISA2009, which is not a scikit-ready data set and must be read from an external file. The list below shows the 23 columns as features and the 24th column as the label of the model output. Below are all 23 features along with their descriptions.
 
 grade: The grade in school of the student (most 15-year-olds in America are in 10th grade)
 
