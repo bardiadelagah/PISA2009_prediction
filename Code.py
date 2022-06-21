@@ -113,7 +113,7 @@ plt.xlabel('minutesPerWeekEnglish')
 plt.ylabel('frequency')
 plt.show()
 
-
+'''
 var = statistics.variance(tempTr['schoolSize'])
 mean = sum(tempTr['schoolSize']) / len(tempTr['schoolSize'])
 print(mean)
@@ -123,3 +123,4 @@ var = statistics.variance(tempTr['minutesPerWeekEnglish'])
 mean = sum(tempTr['minutesPerWeekEnglish']) / len(tempTr['minutesPerWeekEnglish'])
 print(mean)
 print(var)
+'''
